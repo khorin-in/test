@@ -17,8 +17,8 @@ jobs:
     runs-on: windows-latest
     steps:
      - name: Print 
-       run: echo "Хуй"
-       run: mkdir Penis
+       run: echo "Хуй" & mkdir 1 & cd 1
+   
     
     
 
