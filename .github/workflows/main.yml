@@ -17,7 +17,7 @@ jobs:
     runs-on: windows-latest
     steps:
      - name: Print 
-       run: echo "Хуй" & mkdir 1 & cd 1
+       run: echo "Хуй" & mkdir 1 
    
     
     
